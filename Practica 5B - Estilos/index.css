@@ -1,0 +1,45 @@
+html{
+    color: rgb(16, 0, 46);
+    background-color: aliceblue;
+    background-image: url(fondo.jpg);
+}
+
+h1{
+    background-color: rgb(189, 215, 238);
+    color: rgb(0, 68, 131);
+    width: 20%;
+    height: 50px;
+    margin-left: 20%;
+    padding-top: 15px;
+    border-color: gray;
+    border-width: 6px;
+    border-style: dotted;
+}
+
+#elem{
+    color: rgb(77, 9, 9);
+    margin: 1px;
+    display: inline;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: white;
+}
+
+#palabraclave{
+    color: rgb(255, 187, 0);
+    font-style: italic;
+    font-weight: bold;
+}
+
+.imagen{
+    border-color: darkblue;
+    border-style: dotted;
+    border-width: 12px;
+    border-radius: 19px;
+}
+
